@@ -23,7 +23,9 @@ Algo sobre mí : Me Gustan mucho las enchiladas verdes
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- 
+- Soy bueno jugando basket
+- Me gusta mucho cocinar
+- Me gusta jugar videojuegos
 
 ---
 

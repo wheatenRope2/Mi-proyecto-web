@@ -46,9 +46,9 @@ Algo sobre mí : Me Gustan mucho las enchiladas verdes
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. Que es un HASH
+2. Como es el formato mas organizado de los commits
+3. Que ya la rama principal ya no se llama "master" por cuestiones de cultura de estados unidos 
 
 ---
 

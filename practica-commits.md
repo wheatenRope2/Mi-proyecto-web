@@ -59,12 +59,12 @@ Algo sobre mí : Me Gustan mucho las enchiladas verdes
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` | `Crear un nuevo repositorio` |
+| `git status` | `Checar el estado en el que se encuentra nuestro respositorio` |
+| `git add .` | `Agregar algun cambio al index` |
+| `git commit -m "..."` | `Guardar cambios de nuestro repositorio, como un punto de encuentro en los cuales podemos ir guardando las diferentes versiones` |
+| `git log --oneline` | `Nos muestra los diferentes commits que hemos hecho junto con su identificador unico, y nos muestra donde estamos parados en nuestra rama`|
+| `git push` | `Nos ayuda a subir nuestros commit a nuestro repositorio de Github` |
 
 ---
 
